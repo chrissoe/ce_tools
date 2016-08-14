@@ -20,3 +20,8 @@ For better understanding I will publish my folder structure:
     |-BuildScripts (i got more than one - put the scripts in here [CreateBuild.bat] etc.)
     |-SVN (that's for our clean repository - get's updated using the script)
       |-yourprojectname
+
+##CopyBuildScript.txt
+This one will be used by BeyondCompare and will copy files over to the temp processing folder with your filters applied.
+
+The filters will be found inside the CopyBuildScript.txt. You can normally change it as you wish without breaking anything.
