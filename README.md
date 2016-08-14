@@ -1,6 +1,11 @@
 # ce_tools
 batch script updating the version control, copying all files into one directory and pack it into .pak files
 
+##Requirements (Software)
+WinRar
+CryEngine's RC Tool
+BeyondCompare (free version will work too)
+
 ## CreateBuild.bat
 As the script isn't polished until now, but I wanted to release it as early as possible there can be bugs.
 For better understanding I will publish my folder structure:
