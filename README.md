@@ -6,7 +6,11 @@ As the script isn't polished until now, but I wanted to release it as early as p
 For better understanding I will publish my folder structure:
 
 |-MainFolder (doesn't matter)
-  |-BuildArchive
-  |-BuildScripts (i got more than one - put the scripts in here [CreateBuild.bat] etc.)
-  |-SVN (that's for our clean repository - get's updated using the script)
-    |-yourprojectname
+
+    |-BuildArchive
+  
+    |-BuildScripts (i got more than one - put the scripts in here [CreateBuild.bat] etc.)
+  
+    |-SVN (that's for our clean repository - get's updated using the script)
+  
+      |-yourprojectname
