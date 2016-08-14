@@ -1,0 +1,7 @@
+load "%BuildSourcePath%" "%BuildWorkPath%"
+filter "-.svn\;-Editor\;-Assets\Concepts\;-.\...\*.bat;-.\Assets\...\*.obj;-.\Assets\...\*.ztl;-.\Assets\...\*.zpr;-.\Assets\...\*.mud;-.\Assets\...\*.bip;-.\Assets\...\*.psd;-.\Assets\...\*.scriptlog;-.\Assets\...\*.log;-.\Assets\...\_source\;-.\Assets\...\_bip\;-.\Assets\...\_max\;-.\Assets\...\_psd\;-.\Assets\...\_xsi\;-.\Assets\...\_test\;-.\Assets\...\_backup\;-.\Assets\...\_mud\;-.\Assets\...\_ZBrush\;-.\Assets\...\*.swd;-.\Assets\...\*.fla;-.\Assets\...\*.html;-.\Assets\...\*.swf;-.\Assets\Flash\"
+sync mirror:left->right
+expand all
+select right.all.all
+attrib -r
+
