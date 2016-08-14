@@ -1,5 +1,7 @@
 # ce_tools
-batch script updating the version control, copying all files into one directory and pack it into .pak files
+batch script updating the version control, copying all files into one directory and pack it into .pak files.
+
+If you don't want to use SVN just comment line 56 - 59 out!
 
 ##Requirements (Software)
 WinRar
