@@ -3,7 +3,9 @@ batch script updating the version control, copying all files into one directory 
 
 ##Requirements (Software)
 WinRar
+
 CryEngine's RC Tool
+
 BeyondCompare (free version will work too)
 
 ## CreateBuild.bat
