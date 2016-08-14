@@ -8,9 +8,6 @@ For better understanding I will publish my folder structure:
 |-MainFolder (doesn't matter)
 
     |-BuildArchive
-  
     |-BuildScripts (i got more than one - put the scripts in here [CreateBuild.bat] etc.)
-  
     |-SVN (that's for our clean repository - get's updated using the script)
-  
       |-yourprojectname
